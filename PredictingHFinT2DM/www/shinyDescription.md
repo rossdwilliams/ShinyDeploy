@@ -16,4 +16,5 @@ During manuscript development and the subsequent review period, these results ar
 
 
 ### Packages
-
+Development: https://github.com/ohdsi-studies/PredictingHFinT2DM
+Validation: https://github.com/ohdsi-studies/PredictingHFinT2DM/tree/main/validation
